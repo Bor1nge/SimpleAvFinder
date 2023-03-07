@@ -1,0 +1,8 @@
+C:\Users\Yn\source\repos\SimpleAvFinder\SimpleAvFinder\bin\Debug\SimpleAvFinder.exe.config
+C:\Users\Yn\source\repos\SimpleAvFinder\SimpleAvFinder\bin\Debug\SimpleAvFinder.exe
+C:\Users\Yn\source\repos\SimpleAvFinder\SimpleAvFinder\bin\Debug\SimpleAvFinder.pdb
+C:\Users\Yn\source\repos\SimpleAvFinder\SimpleAvFinder\obj\Debug\SimpleAvFinder.csproj.AssemblyReference.cache
+C:\Users\Yn\source\repos\SimpleAvFinder\SimpleAvFinder\obj\Debug\SimpleAvFinder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yn\source\repos\SimpleAvFinder\SimpleAvFinder\obj\Debug\SimpleAvFinder.csproj.CoreCompileInputs.cache
+C:\Users\Yn\source\repos\SimpleAvFinder\SimpleAvFinder\obj\Debug\SimpleAvFinder.exe
+C:\Users\Yn\source\repos\SimpleAvFinder\SimpleAvFinder\obj\Debug\SimpleAvFinder.pdb
